@@ -1,13 +1,15 @@
 # Engineering Run Workshop Resources & Details
 
-Goals for the Enginnering Run - Reed Estrada
+Goals for the Engineering Run - Reed Estrada
 
 
 The links will lead to actual files or other locations with files to access.  Please note that some of these locations may not be accessible as they might be password protected and you might have to request the owner of these locations for access.
 
+### Links for Workshop Resources
 Contributor|Resource
 :---|:---
 Reed Estrada|[Goals & Requirements for the Enginering and future workshops at Mt Wilson](goals_reed_estrada.md)
+Joseph Burch/Alexander K|[Google Drive To Do List and NINA resources upcoming Workshops](https://drive.google.com/drive/folders/1N_8PJXVt-bxaEPOeWJJln_dxDEbLngll?usp=sharing)
 Leon Bewersdorff/Nick Hardy|[Leon/Nick's amazing NINA Browser Plugin version 1.0.5.3](https://drive.google.com/file/d/1DDfk6JIjIr8YannYIvoKHSm5wiio0v6d/view)
 Tom Smith|[Target List (Play List) Format for NINA](target_list_format.pdf)
 Tom Smith|[Tom's magical File Copy App Help Documentation](FileCopyHelp.pdf)
