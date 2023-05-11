@@ -7,7 +7,7 @@ mantained by Chandru Narayan - [chandru.narayan@bush.edu](mailto://chandru.naray
 
 This repository has been created to serve as a landing page for Astronomy Workshops being planned at Mt Wilson.  The primary purpose if this site to allow for all particpants to reach various locations on the internet to access files and other resouces needed for the workshops including with schedules and attendee information. 
 
-More importantly this website will hopefully help us by preventing digging through lots of emails to find link, resources or schedules as we apprach each of the Mt Wilson workshop. I have mined yoru emails and provided links to the original locations. If they are mainteained as specified, the links in this website should continue to work and provide up to date information including any updates you may make in the future.
+More importantly this website will hopefully help us by preventing digging through lots of emails to find link, resources or schedules as we apprach each of the Mt Wilson workshop. I have mined your emails and provided links to the original locations. If they are preserved as specified, the links in this website should continue to work and provide up to date information including any updates you may make in the future.
 
 Some of these locations may not be accessible as they might be passwords protected and you might have to request the owner of these locations for access.
 
