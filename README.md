@@ -1,10 +1,33 @@
 # Mt-Wilson-Workshops
+
+<img src="IMG_9222.jpeg" align="right" width=300px />
+
+```
 This repository has been created to serve as a landing page for Astronomy Workshops being planned at Mt Wilson.  The primary purpose if this site to allow for all particpants to reach various locations on the internet to access files and other resouces needed for the workshops including with schedules and attendee information. 
 
 Some of these locations may not be accessible as they might be passwords protected and you might have to request the owner of these locations for access.
 
 This repository is available for public access for those who have the links, so I will take care not to include phone numbers and other personal information here.
+```
+
+### Schedule of Workshops
 
 Dates|Workshop|Content/Student Leads|Technical Leads|Number of Participants|Overall Purpose/Agenda
 :---|:---|:---|:---|:---|:---:
 May 16|[Engineering Run](engineering)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
+Jun 19-20|[Bush & Paso Rbles High Schools](bushpaso)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
+
+
+### Links for Workshop Resources
+
+No.|Contributor|Resource
+:---|:---|:---
+1.|Reed Estrada|[Goals & Requirements for the Enginering and future workshops at Mt Wilson](goals_reed_estrada.md)
+2.|Joseph Burch/Alexander K|[Google Drive To Do List and NINA resources upcoming Workshops](https://drive.google.com/drive/folders/1N_8PJXVt-bxaEPOeWJJln_dxDEbLngll?usp=sharing)
+3.|Leon Bewersdorff/Nick Hardy|[Leon/Nick's amazing NINA Browser Plugin version 1.0.5.3](https://drive.google.com/file/d/1DDfk6JIjIr8YannYIvoKHSm5wiio0v6d/view)
+4.|Tom Smith|[Target List (Play List) Format for NINA](target_list_format.pdf)
+5.|Tom Smith|[Tom's magical File Copy App Help Documentation](FileCopyHelp.pdf)
+6.|Tom Smith|[Tom's wonderful Star Cluster Search Python Program]()
+7.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/folders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
+8.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
+9.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)

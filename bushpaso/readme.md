@@ -1,4 +1,4 @@
-# Bush & Paso Rbles High School Workshop
+# Bush & Paso Robles High School Workshop
 
 Goals for the Bush School Paso Robles High School - Chandru Narayan & Jon-Paul Ewing
 
@@ -14,17 +14,6 @@ The students have 2 main and one optional goals:
 
 We are not planning on a time-series observations for Exoplanet or variable star observing due to much longer times needed on the telescope.
 
-For information on [technical resources please refer to this page]()
+For information on [technical resources please refer to this page](https://chandrunarayan.github.io/Mt-Wilson-Workshops/engineering/#links-for-workshop-resources)
 
-Contributor|Resource
-:---|:---
-Reed Estrada|[Goals & Requirements for the Enginering and future workshops at Mt Wilson](goals_reed_estrada.md)
-Joseph Burch/Alexander K|[Google Drive To Do List and NINA resources upcoming Workshops](https://drive.google.com/drive/folders/1N_8PJXVt-bxaEPOeWJJln_dxDEbLngll?usp=sharing)
-Leon Bewersdorff/Nick Hardy|[Leon/Nick's amazing NINA Browser Plugin version 1.0.5.3](https://drive.google.com/file/d/1DDfk6JIjIr8YannYIvoKHSm5wiio0v6d/view)
-Tom Smith|[Target List (Play List) Format for NINA](target_list_format.pdf)
-Tom Smith|[Tom's magical File Copy App Help Documentation](FileCopyHelp.pdf)
-Tom Smith|[Tom's wonderful Star Cluster Search Python Program]()
-Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/folders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
-Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
-Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
 
