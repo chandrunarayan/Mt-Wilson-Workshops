@@ -16,6 +16,8 @@ The students have 2 main and one optional goals:
 
 We are not planning on a time-series observations for Exoplanet or variable star observing due to much longer times needed on the telescope.
 
-For information on [technical resources please refer to this page](https://chandrunarayan.github.io/Mt-Wilson-Workshops/engineering/#links-for-workshop-resources)
+### Links for Workshop Resources
+
+For information on [technical resources please refer to this page](https://chandrunarayan.github.io/Mt-Wilson-Workshops/#links-for-workshop-resources)
 
 

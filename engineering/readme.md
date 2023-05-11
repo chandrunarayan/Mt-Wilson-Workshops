@@ -34,15 +34,5 @@ The links below will lead to actual files or other locations with files to acces
 
 ### Links for Workshop Resources
 
-No.|Contributor|Resource
-:---|:---|:---
-1.|Reed Estrada|[Goals & Requirements for the Enginering and future workshops at Mt Wilson](goals_reed_estrada.md)
-2.|Joseph Burch/Alexander K|[Google Drive To Do List and NINA resources upcoming Workshops](https://drive.google.com/drive/folders/1N_8PJXVt-bxaEPOeWJJln_dxDEbLngll?usp=sharing)
-3.|Leon Bewersdorff/Nick Hardy|[Leon/Nick's amazing NINA Browser Plugin version 1.0.5.3](https://drive.google.com/file/d/1DDfk6JIjIr8YannYIvoKHSm5wiio0v6d/view)
-4.|Tom Smith|[Target List (Play List) Format for NINA](target_list_format.pdf)
-5.|Tom Smith|[Tom's magical File Copy App Help Documentation](FileCopyHelp.pdf)
-6.|Tom Smith|[Tom's wonderful Star Cluster Search Python Program]()
-7.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/folders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
-8.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
-9.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
+For information on [technical resources please refer to this page](hhttps://chandrunarayan.github.io/Mt-Wilson-Workshops/#links-for-workshop-resources)
 
