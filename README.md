@@ -1,18 +1,26 @@
-# Mt-Wilson-Workshops
+# Mt-Wilson-Workshops 
+
+mantained by Chandru Narayan - [chandru.narayan@bush.edu](mailto://chandru.narayan@bush.edu)
+
 
 <img src="IMG_9222.jpeg" align="right" width=300px />
 
 This repository has been created to serve as a landing page for Astronomy Workshops being planned at Mt Wilson.  The primary purpose if this site to allow for all particpants to reach various locations on the internet to access files and other resouces needed for the workshops including with schedules and attendee information. 
 
+More importantly this website will hopefully help us by preventing digging through lots of emails to find link, resources or schedules as we apprach each of the Mt Wilson workshop. I have mined yoru emails and provided links to the original locations. If they are mainteained as specified, the links in this website should continue to work and provide up to date information including any updates you may make in the future.
+
 Some of these locations may not be accessible as they might be passwords protected and you might have to request the owner of these locations for access.
 
-This repository is available for public access for those who have the links, so I will take care not to include phone numbers and other personal information here.
+This repository is available for public access for those who have the links, so I will take care not to include phone numbers and other personal information here.  I will gladly maintain this site for the 3 workshops mentioned below and any new ones we may do.  Please let me know if this is useful and if you would like to use it.
+
+Kindly, Chandru
 
 ### Schedule of Workshops
 
 Dates|Workshop|Content/Student Leads|Technical Leads|Number of Participants|Overall Purpose/Agenda
 :---|:---|:---|:---|:---|:---:
 May 16|[Engineering Run](engineering)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
+Jun 19-20|[Bush & Paso Rbles High Schools](bushpaso)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
 Jun 19-20|[Bush & Paso Rbles High Schools](bushpaso)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
 
 
