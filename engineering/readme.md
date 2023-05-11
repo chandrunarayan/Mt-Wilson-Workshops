@@ -34,5 +34,5 @@ The links below will lead to actual files or other locations with files to acces
 
 ### Links for Workshop Resources
 
-For information on [technical resources please refer to this page](hhttps://chandrunarayan.github.io/Mt-Wilson-Workshops/#links-for-workshop-resources)
+For information on [technical resources please refer to this page](https://chandrunarayan.github.io/Mt-Wilson-Workshops/#links-for-workshop-resources)
 
