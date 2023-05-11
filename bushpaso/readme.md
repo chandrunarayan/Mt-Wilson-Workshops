@@ -1,10 +1,15 @@
 # Bush & Paso Robles High School Workshop
 
-Goals for the Bush School Paso Robles High School - Chandru Narayan & Jon-Paul Ewing
+### Goals for the Bush School Paso Robles High School - Chandru Narayan & Jon-Paul Ewing
 
+<img src="ring.png" align="right" width=300px />
+
+```
 This workshop is designed for High School Stuents - many of them getting their first (physical) views through an actual telecope.  The come from diverse backgrounfds and have varying levels of exposure to Astronomy.  Some of these students are accompanied by their parents who will join them during the workshop on daytime tours of the Mt Wilson Facilities and a select few will also accompany them during the observing nights on the 60" telescope.  
 
 There will be about 20 students divided into teams of 4 teams of 5 students each with a parent or two tagging along per team. We expect to start observing asoon as darkness falls (8:00 PM?) and go till midnight or 1:00 AM at the latest. Each team will proabably use up to 45 mins at the telescope.
+```
+
 
 The students have 2 main and one optional goals:
 
