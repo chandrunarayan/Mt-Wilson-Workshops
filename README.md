@@ -20,8 +20,8 @@ Kindly, Chandru
 Dates|Workshop|Content/Student Leads|Technical Leads|Number of Participants|Overall Purpose/Agenda
 :---|:---|:---|:---|:---|:---:
 May 16|[Engineering Run](engineering)|Reed Estrada, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Equipment & Software Checkout for upcoming workshops
-Jun 19-20|[Bush & Paso Robles High Schools](bushpaso)|Chandru Narayan, Jon-Paul Ewing|Joseph Burch, Alexander K, Leon Bewersdoff|20-25|Equipment & Software Checkout for upcoming workshops
-Jun 26-27|[InStAR Imaging](instar)|Rachel Freed, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Speckle Imaging of Globular & Open luster Doubles, Time Series Imaging for new Exoplanets and Variable Stars
+Jun 19-20|[Bush & Paso Robles High School Students Imaging](bushpaso)|Chandru Narayan, Jon-Paul Ewing|Reed Estrada, Joseph Burch, Alexander K, Leon Bewersdoff|20-25|Equipment & Software Checkout for upcoming workshops
+Jun 26-27|[InStAR Students Imaging](instar)|Rachel Freed, Kalee Tock|Joseph Burch, Alexander K, Tom Smith|6-10|Speckle Imaging of Globular & Open luster Doubles, Time Series Imaging for new Exoplanets and Variable Stars
 
 
 ### Links for Workshop Resources
