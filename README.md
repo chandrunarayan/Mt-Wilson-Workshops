@@ -38,6 +38,7 @@ No.|Contributor|Resource
 8.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
 
 ### Mt Wilson Weather
+
 No.|Website
 :---|:---
 1.|[Weather Reports](https://weather.com/weather/tenday/l/Mount+Wilson+CA?canonicalCityId=dc1d01b78da74c9db461d8308406a414dadaa965266dd2d52f1c94e928f19c5b)
