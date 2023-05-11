@@ -1,6 +1,9 @@
 # Engineering Run Workshop Resources & Details
 
 ### Goals for the Engineering Run - Reed Estrada
+
+<img src="ring.png" align="right" width=300px />
+
 Below is a list of software requirements for live data collection with students at the telescope.  Obviously we can not use many of the automated features offered by NINA and other software suits.  Much of this is experience based knowledge of past Mt Wilson observations.  
  
 List of Software we have available
