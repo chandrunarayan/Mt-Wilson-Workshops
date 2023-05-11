@@ -37,7 +37,6 @@ No.|Contributor|Resource
 7.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
 8.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
 
-
 ### Mt Wilson Weather
 No.|Website
 :---|:---
