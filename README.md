@@ -36,3 +36,10 @@ No.|Contributor|Resource
 6.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/olders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
 7.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
 8.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
+
+
+### Mt Wilson Weather
+No.|Website
+:---|:---
+1.|[Weather Reports](https://weather.com/weather/tenday/l/Mount+Wilson+CA?canonicalCityId=dc1d01b78da74c9db461d8308406a414dadaa965266dd2d52f1c94e928f19c5b)
+2.|[Sky Conditions](https://www.cleardarksky.com/c/MtWilsonOBCAkey.html?1)
