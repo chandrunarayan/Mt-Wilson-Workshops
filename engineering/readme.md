@@ -1,11 +1,8 @@
 # Engineering Run Workshop Resources & Details
 
-### Zoom Schedule for International Participants
-[Starts 8:00 PM Pacific Dalight time or 3:00 AM UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230516T030000&p1=1440&p2=871)
+### Zoom Recording from May 16th Engineering run
 
 https://us06web.zoom.us/j/8092092788?pwd=cmZmWWo4K0R5YWJmalhBS0V5VlYyZz09
-
-Or, you can join with the following ID and passcode:
 
 Meeting ID: 809 209 2788
 Passcode: 6FGmQM
