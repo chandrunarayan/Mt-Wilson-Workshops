@@ -1,8 +1,11 @@
-### Goals for the InStAR Imaging Run - Rachel Freed, Kalee Tock
+## InStAR Imaging Run - Rachel Freed, Reed Estrada
 
-<img src="doublestar.png" align="right" width=300px />
+<img src="doublestar.png" width=300px />
 
-1. Please prode Goals to add here
+### Event Attendees each day
+![att](instar_event_attendees.png)
+
+1. Please provide Goals to add here
 1. more ..
 ### Links for Workshop Resources
 
