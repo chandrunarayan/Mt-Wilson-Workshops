@@ -22,6 +22,9 @@ The students have 3 main and one optional goals:
 
 We are not planning on a time-series observations for Exoplanet or variable star observing due to much longer times needed on the telescope.
 
+### Approximate Schedule of Activities
+[Access this approximate schedule of activities planned](MtWilson_pretrip_Agenda.pdf)
+
 ### Links for Workshop Resources
 
 [Access this Google Drive](https://drive.google.com/drive/folders/16FN23fHDwa_AChKWwMbZyexjmuUDk1BK?usp=sharing) for Images obtained at Mt Wilson for the Bush School Workshop
