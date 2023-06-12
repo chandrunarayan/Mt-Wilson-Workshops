@@ -31,15 +31,18 @@ No.|Contributor|Resource
 1.|Joseph Burch/Alexander K|[Google Drive To Do List and NINA resources upcoming Workshops](https://drive.google.com/drive/folders/1N_8PJXVt-bxaEPOeWJJln_dxDEbLngll?usp=sharing)
 2.|Leon Bewersdorff/Nick Hardy|[Leon/Nick's amazing NINA Browser Plugin version 1.0.5.3](https://drive.google.com/file/d/1DDfk6JIjIr8YannYIvoKHSm5wiio0v6d/view)
 3.|Tom Smith|[Target List (Play List) Format for NINA](target_list_format.pdf)
-4.|Tom Smith|[Tom's magical File Copy App Help Documentation](FileCopyHelp.pdf)
-5.|Tom Smith|[Tom's wonderful Speckle Traveler & Star Cluster Search Python Programs](https://drive.google.com/drive/folders/1-Tbxn93y6tsXwbY9BqlZBmuwlJZ-pzue?usp=sharing)
-6.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/olders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
-7.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
-8.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
+4.|Tom Smith|[Tom's wonderful Speckle Traveler & Star Cluster Search Python Programs](https://drive.google.com/drive/folders/1-Tbxn93y6tsXwbY9BqlZBmuwlJZ-pzue?usp=sharing)
+5.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/olders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
+6.|Reed Estrada|[Google Drive for Speckle Interferometry Data](https://docs.google.com/document/u/0/d/1dFaNgAwE7uvuMEgTnrJmzSu0gu5Twrwv8XwlbSihxEw/edit)
+7.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
 
-### Mt Wilson Weather
+### Mt Wilson MAPS & Weather
 
 No.|Website
 :---|:---
-1.|[Weather Reports](https://weather.com/weather/tenday/l/Mount+Wilson+CA?canonicalCityId=dc1d01b78da74c9db461d8308406a414dadaa965266dd2d52f1c94e928f19c5b)
-2.|[Sky Conditions](https://www.cleardarksky.com/c/MtWilsonOBCAkey.html?1)
+1.|[Mt Wilson workshop Points of Interest (Print this out on Paper!)](bushpaso/walking_maps.png)
+2.|[Mt Wilson Observatory Map](https://www.mtwilson.edu/wp-content/uploads/2023/05/MWO-Campus-Map-Printable.pdf)
+3.|[Mt Wilson Observatory Online Interactive Map](https://www.mtwilson.edu/interactive-campus-map/)
+4.|[Mt Wilson Self guided Walking Tours](https://www.mtwilson.edu/self-guided-tours/)
+5.|[Weather Reports](https://weather.com/weather/tenday/l/Mount+Wilson+CA?canonicalCityId=dc1d01b78da74c9db461d8308406a414dadaa965266dd2d52f1c94e928f19c5b)
+6.|[Sky Conditions](https://www.cleardarksky.com/c/MtWilsonOBCAkey.html?1)
