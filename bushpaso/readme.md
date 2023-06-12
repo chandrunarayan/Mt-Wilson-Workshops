@@ -1,5 +1,10 @@
 # Bush & Paso Robles High School Workshop
 
+## Recognition for Astronomers, Teachers & Scientisis Supporting this event - THANK YOU!!
+
+### [Please click here for Profiles of these wonderful people!](Astronomers_Scientists.pdf)
+
+
 ### Goals for the Bush School Paso Robles High School - Chandru Narayan & Jon-Paul Ewing
 
 <img src="2_m42_final.png" align="right" width=300px />
