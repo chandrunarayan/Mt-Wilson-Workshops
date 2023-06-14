@@ -35,6 +35,7 @@ No.|Contributor|Resource
 5.|Kalee Tock|[Google Drive for Exoplanet Data](https://drive.google.com/drive/olders/1bUdg7aniibfqsm30sNgyn3zKK5qs4tq0)
 6.|Reed Estrada|[Google Drive for Chile Telescopes](https://drive.google.com/drive/folders/12BThU06ERR68qHHf88khPb9Xq8m3C9Ny)
 7.|Scott Dixon|[Scott's Year Long Target List for CDK 24](year_long_target_list.csv)
+8.|Chandru Narayan|[Mt Wilson Network Setup](https://chandrunarayan.github.io/Mt-Wilson-Workshops/MtWilson_Network.html)
 
 ### Mt Wilson MAPS & Weather
 
