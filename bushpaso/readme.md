@@ -29,6 +29,8 @@ We are not planning on a time-series observations for Exoplanet or variable star
 
 [Access this Google Drive](https://drive.google.com/drive/folders/16FN23fHDwa_AChKWwMbZyexjmuUDk1BK?usp=sharing) for Images obtained at Mt Wilson for the Bush School Workshop
 
+[Access this Google Drive](https://drive.google.com/drive/folders/1eRoPWo77MVm8wqc_HES9z3E6adLV8A1y) for attendee information (restricted)
+
 For information on [technical resources please refer to this page](https://chandrunarayan.github.io/Mt-Wilson-Workshops/#links-for-workshop-resources)
 
 
